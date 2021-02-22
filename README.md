@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+If you want to run this code, you need to get your API Key into https://developers.themoviedb.org/ , later you need to paste your key into lib/src/utils/constants.dart
+
 ## Visual result:
 <p align = "center">
 <img src="/images/01.png" width="250"> <img src="/images/02.png" width="250"> <img src="/images/03.png" width="250">
