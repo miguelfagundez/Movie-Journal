@@ -7,6 +7,9 @@ If you want to run this code sample, you need to get your API Key into https://d
 Official Movie Journal's website: [here](https://mj.miguelfagundez.com/)
 
 ## Visual result:
+
+These images were the v1.0.0 of Movie Journal. You can donwload and modify it as you wish.
+
 <p align = "center">
 <img src="/images/01.png" width="250"> <img src="/images/02.png" width="250"> <img src="/images/03.png" width="250">
 </p>
