@@ -1,4 +1,4 @@
-# movies_flutter_app
+# A new flutter app
 
 Movie Journal - An agenda for film lovers.
 
